@@ -1,3 +1,6 @@
+
+Hi, I'm Vincent Ekenedirichukwu Ezeji 👋
+I'm a Junior Cloud Engineer and Surveying & GIS Enthusiast, passionate about building cloud solutions and applying geospatial technology to solve real-world problems.
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud Engineering
