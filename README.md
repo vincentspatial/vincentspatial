@@ -1,6 +1,6 @@
 
 Hi, I'm Vincent 👋
-I'm a Surveying & GIS enthusiast currently learning Cloud Engineering and exploring the intersection of cloud and geospatial technologies.
+- I'm a Surveying & GIS enthusiast currently learning Cloud Engineering and exploring the intersection of cloud and geospatial technologies.
 
 ## 🔗 Tools I Work with
 - ✅ QGIS (Intermediate)
