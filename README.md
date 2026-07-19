@@ -2,18 +2,19 @@
 Hi, I'm Vincent 👋
 I'm a Surveying & GIS enthusiast currently learning Cloud Engineering and exploring the intersection of cloud and geospatial technologies.
 
-## Tools I work with
--QGIS (Intermediate level)
--ArcGIS pro (Basic familiarity)
--Excel
--AutoCad
+## 🔗 Tools I Work with
+- ✅ QGIS (Intermediate)
+- ✅ ArcGIS Pro (Basic familiarity)
+- ✅ Microsoft Excel
+- ✅ AutoCAD
 
-## Currently Learning 
--Amazon EC2
--Amazon S3
--Amazon IAM
--Linux
--Docker
+## 📚 Currently Learning
+- 🌱 Amazon EC2
+- 🌱 Amazon S3
+- 🌱 Amazon IAM
+- 🌱 Linux
+- 🌱 Docker
+- 🌱 Git
 
 ## Projects
 ![Surveying & GIS](https://img.shields.io/badge/Surveying%20%26%20GIS-2E8B57?style=flat-square)
