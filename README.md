@@ -15,8 +15,8 @@ I'm a Surveying & GIS enthusiast currently learning Cloud Engineering and explor
 -Linux
 -Docker
 
+## Projects
 ![Surveying & GIS](https://img.shields.io/badge/Surveying%20%26%20GIS-2E8B57?style=flat-square)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-## Projects 
 - Spatio-Temporal Analysis of Bandit Spread in Nigeria (2018-2026)
 
