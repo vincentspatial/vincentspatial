@@ -4,7 +4,7 @@ Hi, I'm Vincent 👋
 
 ## 🔗 Tools I Work with
 - 🌱 Amazon EC2 [/Amazon_EC2_repo](https://github.com/vincentspatial/Amazon_EC2_repo)
-- 🌱 Amazon S3[ https://github.com/vincentspatial/Amazon_S3_Repo](https://github.com/vincentspatial/Amazon_S3_Repo)
+- 🌱 Amazon S3[/Amazon_S3_Repo](https://github.com/vincentspatial/Amazon_S3_Repo)
 - 🌱 Amazon IAM
 - 🌱 Linux
 - 🌱 Docker
