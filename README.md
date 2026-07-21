@@ -20,4 +20,4 @@ Hi, I'm Vincent 👋
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 - Spatio-Temporal Analysis of Bandit Spread in Nigeria (2018-2026)
 - AWS EC2 Web Server Deployment Project [/Amazon_EC2_repo](https://github.com/vincentspatial/Amazon_EC2_repo)
-- AWS S3 bucket configuration and management
+- AWS S3 bucket configuration and management[/Amazon_S3_Repo](https://github.com/vincentspatial/Amazon_S3_Repo)
